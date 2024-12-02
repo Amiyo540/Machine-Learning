@@ -1,2 +1,1 @@
-Database-projects
-Here are some database projects with SQL languages
+Here are some Database projects with SQL languages.
