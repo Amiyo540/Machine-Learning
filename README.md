@@ -1,1 +1,1 @@
-Here are some Database projects with SQL languages.
+A Deep CNN approach for Nagri handwritten digits recognition.
