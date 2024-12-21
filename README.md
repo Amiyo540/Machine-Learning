@@ -1,1 +1,1 @@
-A Deep CNN approach for Nagri handwritten digits recognition.
+This is a Deep CNN approach to classify and recognize the Nagri handwritten digits accurately. In this research, machine learning and deep learning techniques are used. The dataset consists of around 5000 Nagri digit images for training and testing made by made. After training the Deep CNN model with this dataset, the model got 94.34% accuracy. This research is suitable for future works related to Nagri digits.
